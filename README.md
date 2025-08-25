@@ -16,6 +16,4 @@ Please note - It could be possible that random string at ngrok changes...please 
 
 I am quite excited for the interview procedure!!!
 
-Regards,
 
-Mahip Khandelwal
