@@ -1,7 +1,10 @@
 Hello there!
-I have hosted my node.js backend on https://b0f47861e9e0.ngrok-free.app using ngrok and I have defined three endpoints 
+I have hosted my node.js backend on https://b0f47861e9e0.ngrok-free.app using ngrok and I have defined three endpoints
+
 /identify - As required in assignment 
-/contact - 
+
+/contacts - to view Contacts table 
+
 /delete - For deleting a record (soft delete)
 
 I have SQL server instance on docker and to avoid cost charges I have not deployed it on Azure or other cloud based platform. Please review the code and in case there 
